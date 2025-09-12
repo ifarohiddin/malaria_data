@@ -1,0 +1,1 @@
+ai:   runn     uvicorn main:app --reload
